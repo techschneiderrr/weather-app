@@ -76,11 +76,3 @@ body {
     position: relative;
   }
   
-  .weather.loading:after {
-    visibility: visible;
-    content: "search";
-    color: white;
-    position: absolute;
-    top: 0;
-    left: 20px;
-  }
